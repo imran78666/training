@@ -1,0 +1,2 @@
+a,b,c = map(int,input("enter your number:"))
+print(a,b,c)
